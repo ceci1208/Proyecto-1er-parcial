@@ -1,5 +1,8 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="20008000">
+	<Property Name="NI.Lib.Description" Type="Str">This module has all the instructions and operation to save the information in the Database
+</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!):!!!*Q(C=\&gt;3^D&gt;N!%-8R:]/"5V8AAVK9&amp;N3#7JD5I&gt;),V=+UI"95/8^Q"YI=7SX1`VU-"!6XEA&amp;`Y($15EO*D^S&gt;HZ9%J&gt;E_3Z`U\6\\@L.&gt;HW@+XLVS@HTG\N&lt;Z0RB`J`\,`DN.D`:I\\M^,\`2`CXBAT2K,)PJ25^[;*2&gt;4'ZSEZP=Z#9P]C)P]C)P]C*0]C20]C20]C10]C!0]C!0]C#@'\H)23ZS3+;Y+71G.2/9C[()\)T(?)T(?$C5]2C0]2C0]8#*D-&gt;YD-&gt;YD)&gt;B-B\D-2\D-2[GGB,0D2S0]4#^#E`B+4S&amp;J`"15I7H!"4&amp;CIG,37#I/&amp;H]+$S&amp;J`$Q5Y7H]"3?QF.Y/+X#5XA+4_%J0!S:KV*4-T:S0%SDR*.Y%E`C34R-L=34?"*0YEE]F&amp;0C34Q*)CG94!Z"S;$EAO1A]31?PJ2Y%E`C34S*BV0T$O6=G;%:'TG?Q".Y!E`A#4R-I=!4?!*0Y!E]4+P!%XA#4_!*0*23Y!E]A3?!"%5JLW#S9'"Q52!%(D\T;9FZFWJ+9GZ30\TKBV,^M+E@)P8$I&lt;\J[JOJPEHKR6=PKHKRV)OA`H.KN"KD,K)?0#\5G@W*@K1@[(P[DL[F&lt;_BL_GI-`=M8HM^HH5YH(9^((1Y(\@&gt;\\89\&lt;&lt;&gt;&lt;&lt;49&lt;L&gt;&gt;LL6;LSWPAC?XS1LB[,`XYMCQ`P^,\?RT`F`@37XAX[K/O;\"'PQ"JM*T=!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
