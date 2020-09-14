@@ -22,6 +22,7 @@
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="Database info Argument--cluster.ctl" Type="VI" URL="../Database info Argument--cluster.ctl"/>
 				<Item Name="config database Argument--cluster.ctl" Type="VI" URL="../config database Argument--cluster.ctl"/>
+				<Item Name="Save Argument--cluster.ctl" Type="VI" URL="../Save Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -37,6 +38,7 @@
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Database info.vi" Type="VI" URL="../Database info.vi"/>
 			<Item Name="config database.vi" Type="VI" URL="../config database.vi"/>
+			<Item Name="Save.vi" Type="VI" URL="../Save.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
