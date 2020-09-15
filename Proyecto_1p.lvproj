@@ -1,5 +1,9 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="20008000">
+	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Property Name="NI.Project.Description" Type="Str">In this project the user will be able to Add or Delete a user in a database sistem using tags that contains a specific color, a specific letter and a specific bar code. 
+These tags will be readen by a camera in continuous acquisition, another module in charge of analize the data from acquisition will send it to the Database module that will Add or delete them from de sistem. 
+The user also will be able to decide whether add or delete the user clicking in config menu and selecting the option. </Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>

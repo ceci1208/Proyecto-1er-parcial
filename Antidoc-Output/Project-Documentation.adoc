@@ -9,7 +9,9 @@ Cecilia Saldivar  <cecisazu@gmail.com>
 
 == Project description
 
-No description found (add content in project description)
+In this project the user will be able to Add or Delete a user in a database sistem using tags that contains a specific color, a specific letter and a specific bar code. 
+These tags will be readen by a camera in continuous acquisition, another module in charge of analize the data from acquisition will send it to the Database module that will Add or delete them from de sistem. 
+The user also will be able to decide whether add or delete the user clicking in config menu and selecting the option. 
 
 == Code component descriptions
 
@@ -70,7 +72,7 @@ Graphs used in this section have the following legend:
 
 [graphviz, format="png", align="center"]
 ....
-digraph G209038 {
+digraph G67535 {
 rankdir=LR;
 edge[dir=both color=black  arrowhead=normal arrowtail=none style=filled penwidth=1]
 node[color=black shape=box]
@@ -83,7 +85,7 @@ node[color=black shape=box]
 
 [graphviz, format="png", align="center"]
 ....
-digraph G81713 {
+digraph G458687 {
 rankdir=LR;
 edge[dir=both color=black  arrowhead=normal arrowtail=none style=filled penwidth=1]
 node[color=black shape=box]
@@ -100,7 +102,7 @@ node[color=black shape=box]
 
 [graphviz, format="png", align="center"]
 ....
-digraph G939249 {
+digraph G726950 {
 rankdir=LR;
 edge[dir=both color=black  arrowhead=normal arrowtail=none style=filled penwidth=1]
 node[color=black shape=box]
@@ -114,7 +116,7 @@ caller" [label="Called by" dir=both color=yellowgreen  arrowhead=odot arrowtail=
 
 [graphviz, format="png", align="center"]
 ....
-digraph G797483 {
+digraph G644327 {
 rankdir=LR;
 edge[dir=both color=black  arrowhead=normal arrowtail=none style=filled penwidth=1]
 node[color=black shape=box]
@@ -158,7 +160,7 @@ This graph represents the links between all DQMH modules.
 
 [graphviz, format="png", align="center"]
 ....
-digraph G91258 {
+digraph G19710 {
 rankdir=LR;
 edge[dir=both color=black  arrowhead=normal arrowtail=none style=filled penwidth=1]
 node[color=black shape=box]
@@ -199,7 +201,7 @@ node[color=black shape=box]
 
 [graphviz, format="png", align="center"]
 ....
-digraph G94720 {
+digraph G351495 {
 rankdir=LR;
 edge[dir=both color=black  arrowhead=normal arrowtail=none style=filled penwidth=1]
 node[color=black shape=box]
@@ -234,7 +236,7 @@ Test Acquisition API.vi
 
 [graphviz, format="png", align="center"]
 ....
-digraph G782744 {
+digraph G91185 {
 rankdir=LR;
 edge[dir=both color=black  arrowhead=normal arrowtail=none style=filled penwidth=1]
 node[color=black shape=box]
@@ -331,7 +333,7 @@ Test Acquisition API.vi
 
 [graphviz, format="png", align="center"]
 ....
-digraph G99665 {
+digraph G3762 {
 rankdir=LR;
 edge[dir=both color=black  arrowhead=normal arrowtail=none style=filled penwidth=1]
 node[color=black shape=box]
@@ -366,7 +368,7 @@ Test Analisis API.vi
 
 [graphviz, format="png", align="center"]
 ....
-digraph G988839 {
+digraph G153997 {
 rankdir=LR;
 edge[dir=both color=black  arrowhead=normal arrowtail=none style=filled penwidth=1]
 node[color=black shape=box]
@@ -459,7 +461,7 @@ Test Analisis API.vi
 
 [graphviz, format="png", align="center"]
 ....
-digraph G566392 {
+digraph G204910 {
 rankdir=LR;
 edge[dir=both color=black  arrowhead=normal arrowtail=none style=filled penwidth=1]
 node[color=black shape=box]
@@ -492,7 +494,7 @@ Test Configuracion API.vi
 
 [graphviz, format="png", align="center"]
 ....
-digraph G778734 {
+digraph G325891 {
 rankdir=LR;
 edge[dir=both color=black  arrowhead=normal arrowtail=none style=filled penwidth=1]
 node[color=black shape=box]
@@ -583,7 +585,7 @@ Configuracion.lvlib:Obtain Broadcast Events for Registration.vi
 
 [graphviz, format="png", align="center"]
 ....
-digraph G15884 {
+digraph G259565 {
 rankdir=LR;
 edge[dir=both color=black  arrowhead=normal arrowtail=none style=filled penwidth=1]
 node[color=black shape=box]
@@ -618,7 +620,7 @@ Test Database API.vi
 
 [graphviz, format="png", align="center"]
 ....
-digraph G949595 {
+digraph G386660 {
 rankdir=LR;
 edge[dir=both color=black  arrowhead=normal arrowtail=none style=filled penwidth=1]
 node[color=black shape=box]
@@ -718,7 +720,7 @@ Test Database API.vi
 
 [graphviz, format="png", align="center"]
 ....
-digraph G144185 {
+digraph G824523 {
 rankdir=LR;
 edge[dir=both color=black  arrowhead=normal arrowtail=none style=filled penwidth=1]
 node[color=black shape=box]
@@ -753,7 +755,7 @@ Test Mensajes API.vi
 
 [graphviz, format="png", align="center"]
 ....
-digraph G755092 {
+digraph G1001338 {
 rankdir=LR;
 edge[dir=both color=black  arrowhead=normal arrowtail=none style=filled penwidth=1]
 node[color=black shape=box]
@@ -842,7 +844,7 @@ Test Mensajes API.vi
 
 [graphviz, format="png", align="center"]
 ....
-digraph G32324 {
+digraph G8576 {
 rankdir=LR;
 edge[dir=both color=black  arrowhead=normal arrowtail=none style=filled penwidth=1]
 node[color=black shape=box]
@@ -872,7 +874,7 @@ Test UI API.vi
 
 [graphviz, format="png", align="center"]
 ....
-digraph G808756 {
+digraph G218833 {
 rankdir=LR;
 edge[dir=both color=black  arrowhead=normal arrowtail=none style=filled penwidth=1]
 node[color=black shape=box]
