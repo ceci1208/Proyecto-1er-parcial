@@ -23,6 +23,7 @@
 				<Item Name="Hide Panel Argument--cluster.ctl" Type="VI" URL="../Hide Panel Argument--cluster.ctl"/>
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="Start Argument--cluster.ctl" Type="VI" URL="../Start Argument--cluster.ctl"/>
+				<Item Name="stop analisis Argument--cluster.ctl" Type="VI" URL="../stop analisis Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -37,6 +38,7 @@
 			<Item Name="Get Module Execution Status.vi" Type="VI" URL="../Get Module Execution Status.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Start.vi" Type="VI" URL="../Start.vi"/>
+			<Item Name="stop analisis.vi" Type="VI" URL="../stop analisis.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -89,4 +91,6 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="formas.vi" Type="VI" URL="../formas.vi"/>
+	<Item Name="LETRAS.vi" Type="VI" URL="../LETRAS.vi"/>
+	<Item Name="colores_letras.vi" Type="VI" URL="../colores_letras.vi"/>
 </Library>
