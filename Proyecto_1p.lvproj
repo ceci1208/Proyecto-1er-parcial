@@ -26,7 +26,6 @@
 			<Item Name="Test Mensajes API.vi" Type="VI" URL="../Libraries/Mensajes/Test Mensajes API.vi"/>
 			<Item Name="Test UI API.vi" Type="VI" URL="../Libraries/UI/Test UI API.vi"/>
 		</Item>
-		<Item Name="Barra de botones.rtm" Type="Document" URL="../Libraries/Barra de botones.rtm"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AddNamedRendezvousPrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/AddNamedRendezvousPrefix.vi"/>
@@ -134,6 +133,7 @@
 				<Item Name="Wait at Rendezvous.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/Wait at Rendezvous.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="Barra de botones.rtm" Type="Document" URL="../Libraries/Barra de botones.rtm"/>
 			<Item Name="final cool.vi" Type="VI" URL="../../Vision VI/final cool.vi"/>
 			<Item Name="niimaqdx.dll" Type="Document" URL="niimaqdx.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
